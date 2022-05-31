@@ -1,0 +1,36 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+#IDE
+.idea/
+.vscode/
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+__debug_bin
+.history/
+.terraform/
+
+# elastic dev env data
+.ecsdata
+
+# build artifact
+*.test
+
+# venv
+venv/
+
+# load test
+jmeter.log
+
+# pprof
+cpu.prof
+mem.prof
+pprof/pprof*
+target
