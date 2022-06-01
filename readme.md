@@ -87,14 +87,6 @@ OPTIONS:
 make release
 ```
 
-# Contributing
-
-Fork, implement, add tests, pull request & stay safe.
-
-### Thanks:
-
-To all [Contributors](https://github.com/AvnerCohen/ini-as-rest/graphs/contributors) - you make this happen, thanks!
-
 # Copyright
 
 Copyright (c) 2022 [Avner Cohen](https://github.com/AvnerCohen) [@avnerner](http://twitter.com/avnerner). See [LICENSE](LICENSE.txt) for further details.
