@@ -34,3 +34,6 @@ cpu.prof
 mem.prof
 pprof/pprof*
 target
+
+# asdf local tool versions (optional, keep uncommitted for local Rust)
+.tool-versions

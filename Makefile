@@ -1,10 +1,10 @@
 
 release:
-	@cargo +nightly build --release --bin ini-as-rest
+	@cargo build --release --bin ini-as-rest
 
 run:
-	@cargo +nightly run
+	@cargo run
 
 build:
-	@cargo +nightly build
+	@cargo build
 

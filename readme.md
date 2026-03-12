@@ -83,6 +83,8 @@ OPTIONS:
 
 ### Build Locally
 
+**Requirements:** Rust **1.91 or later** (or current stable). The project uses the [official AWS SDK for Rust](https://github.com/awslabs/aws-sdk-rust) for STS AssumeRole; its dependencies need this toolchain. If you use [rustup](https://rustup.rs/), the repo’s `rust-toolchain.toml` will select the right version automatically.
+
 ```sh
 make release
 ```
